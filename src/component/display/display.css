@@ -1,0 +1,20 @@
+.container{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 10vh;
+}
+
+.cardStyl {
+    width: 25%;
+    margin: 9% auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    box-shadow: 1px 1px 9px #c2c0c0dd;
+}
+.cardStyl:hover{
+    box-shadow: 1px 1px 9px #8b8a8add;
+}
+.textStyl1{
+    color: rgb(90, 88, 88);
+    font-size: 30px;
+}

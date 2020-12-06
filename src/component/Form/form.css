@@ -1,0 +1,21 @@
+.containerStyl{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 1px 1px 9px #8b8a8add;
+  width: 45% !important;
+  margin: 0% auto !important;
+  padding: 99px !important;
+  background-color: #dbe4ff;
+}
+
+.header {
+    font-size: 27px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+  }
+  /* .base-container{
+    box-shadow: 1px 1px 9px #8b8a8add;
+  } */
